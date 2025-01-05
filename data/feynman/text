@@ -1,0 +1,846 @@
+This two-year course in physics is presented from the point of view that you,
+the reader, are going to be a physicist. This is not necessarily the case of course,
+but that is what every professor in every subject assumes! If you are going to
+be a physicist, you will have a lot to study: two hundred years of the most rapidly
+developing field of knowledge that there is. So much knowledge, in fact, that
+you might think that you cannot learn all of it in four years, and truly you cannot;
+you will have to go to graduate school too!
+Surprisingly enough, in spite of the tremendous amount of work that has been
+done for all this time it is possible to condense the enormous mass of results to
+a large extent—that is, to find laws which summarize all our knowledge. Even
+so, the laws are so hard to grasp that it is unfair to you to start exploring this
+tremendous subject without some kind of map or outline of the relationship of
+one part of the subject of science to another. Following these preliminary remarks,
+the first three chapters will therefore outline the relation of physics to the rest
+of the sciences, the relations of the sciences to each other, and the meaning of
+science, to help us develop a "feel" for the subject.
+You might ask why we cannot teach physics by just giving the basic laws on
+page one and then showing how they work in all possible circumstances, as we do
+in Euclidean geometry, where we state the axioms and then make all sorts of de-
+ductions. (So, not satisfied to learn physics in four years, you want to learn it in
+four minutes?) We cannot do it in this way for two reasons. First, we do not yet
+know all the basic laws: there is an expanding frontier of ignorance. Second, the
+correct statement of the laws of physics involves some very unfamiliar ideas
+which require advanced mathematics for their description. Therefore, one needs
+a considerable amount of preparatory training even to learn what the words
+mean. No, it is not possible to do it that way. We can only do it piece by piece.
+Each piece, or part, of the whole of nature is always merely an approximation
+to the complete truth, or the complete truth so far as we know it. In fact, every-
+thing we know is only some kind of approximation, because we know that we do
+not know all the laws as yet. Therefore, things must be learned only to be unlearned
+again or, more likely, to be corrected.
+The principle of science, the definition, almost, is the following: The test of
+all knowledge is experiment. Experiment is the sole judge of scientific "truth."
+But what is the source of knowledge? Where do the laws that are to be tested
+come from? Experiment, itself, helps to produce these laws, in the sense that it
+gives us hints. But also needed is imagination to create from these hints the great
+generalizations—to guess at the wonderful, simple, but very strange patterns be-
+neath them all, and then to experiment to check again whether we have made the
+right guess. This imagining process is so difficult that there is a division of labor
+in physics: there are theoretical physicists who imagine, deduce, and guess at new
+laws, but do not experiment; and then there are experimental physicists who ex-
+periment, imagine, deduce, and guess.
+We said that the laws of nature are approximate: that we first find the "wrong"
+ones, and then we find the "right" ones. Now, how can an experiment be "wrong" ?
+First, in a trivial way: if something is wrong with the apparatus that you did not
+notice. But these things are easily fixed, and checked back and forth. So without
+snatching at such minor things, how can the results of an experiment be wrong?
+Only by being inaccurate. For example, the mass of an object never seems to change; a spinning top has the same weight as a still one. So a "law" was in-
+vented: mass is constant, independent of speed. That "law" is now found to be
+incorrect. Mass is found to increase with velocity, but appreciable increases require
+velocities near that of light. A true law is: if an object moves with a speed of
+less than one hundred miles a second the mass is constant to within one part in
+a million. In some such approximate form this is a correct law. So in practice
+one might think that the new law makes no significant difference. Well, yes and
+no. For ordinary speeds we can certainly forget it and use the simple constant-
+mass law as a good approximation. But for high speeds we are wrong, and the
+higher the speed, the more wrong we are.
+Finally, and most interesting, philosophically we are completely wrong with
+the approximate law. Our entire picture of the world has to be altered even though
+the mass changes only by a little bit. This is a very peculiar thing about the
+philosophy, or the ideas, behind the laws. Even a very small effect sometimes
+requires profound changes in our ideas.
+Now, what should we teach first? Should we teach the correct but unfamiliar
+law with its strange and difficult conceptual ideas, for example the theory of
+relativity, four-dimensional space-time, and so on? Or should we first teach the
+simple "constant-mass" law, which is only approximate, but does not involve such
+difficult ideas? The first is more exciting, more wonderful, and more fun, but the
+second is easier to get at first, and is a first step to a real understanding of the
+second idea. This point arises again and again in teaching physics. At different
+times we shall have to resolve it in different ways, but at each stage it is worth
+learning what is now known, how accurate it is, how it fits into everything else,
+and how it may be changed when we learn more.
+Let us now proceed with our outline, or general map, of our understanding
+of science today (in particular, physics, but also of other sciences on the periphery),
+so that when we later concentrate on some particular point we will have some idea
+of the background, why that particular point is interesting, and how it fits into
+the big structure. So, what is our over-all picture of the world? 
+If, in some cataclysm, all of scientific knowledge were to be destroyed, and only
+one sentence passed on to the next generations of creatures, what statement would
+contain the most information in the fewest words? I believe it is the atomic
+hypothesis (or the atomic fact, or whatever you wish to call it) that all things are
+made of atoms—little particles that move around in perpetual motion, attracting
+each other when they are a little distance apart, but repelling upon being squeezed
+into one another. In that one sentence, you will see, there is an enormous amount
+of information about the world, if just a little imagination and thinking are applied.
+To illustrate the power of the atomic idea, suppose that we have a drop of
+water a quarter of an inch on the side. If we look at it very closely we see nothing
+but water—smooth, continuous water. Even if we magnify it with the best optical
+microscope available—roughly two thousand times—then the water drop will be
+roughly forty feet across, about as big as a large room, and if we looked rather
+closely, we would still see relatively smooth water—but here and there small
+football-shaped things swimming back and forth. Very interesting. These are
+paramecia. You may stop at this point and get so curious about the paramecia
+with their wiggling cilia and twisting bodies that you go no further, except per-
+haps to magnify the paramecia still more and see inside. This, of course, is a subject
+for biology, but for the present we pass on and look still more closely at the water
+material itself, magnifying it two thousand times again. Now the drop of water
+extends about fifteen miles across, and if we look very closely at it we see a kind
+of teeming, something which no longer has a smooth appearance—it looks some-
+thing like a crowd at a football game as seen from a very great distance. In order
+to see what this teeming is about, we will magnify it another two hundred and
+fifty times and we will see something similar to what is shown in Fig. 1-1. This
+is a picture of water magnified a billion times, but idealized in several ways.
+In the first place, the particles are drawn in a simple manner with sharp edges,
+which is inaccurate. Secondly, for simplicity, they are sketched almost schemati-
+cally in a two-dimensional arrangement, but of course they are moving around in
+three dimensions. Notice that there are two kinds of "blobs" or circles to represent
+the atoms of oxygen (black) and hydrogen (white), and that each oxygen has two
+hydrogens tied to it. (Each little group of an oxygen with its two hydrogens is
+called a molecule.) The picture is idealized further in that the real particles in
+nature are continually jiggling and bouncing, turning and twisting around one
+another. You will have to imagine this as a dynamic rather than a static picture.
+Another thing that cannot be illustrated in a drawing is the fact that the particles
+are "stuck together"—that they attract each other, this one pulled by that one,
+etc. The whole group is "glued together," so to speak. On the other hand, the
+particles do not squeeze through each other. If you try to squeeze two of them too
+close together, they repel.
+The atoms are 1 or 2 X 10-8 cm in radius. Now 10-8 cm is called an
+angstrom (just as another name), so we say they are 1 or 2 angstroms (Å) in radius.
+Another way to remember their size is this: if an apple is magnified to the size
+of the earth, then the atoms in the apple are approximately the size of the original
+apple.
+Now imagine this great drop of water with all of these jiggling particles stuck
+together and tagging along with each other. The water keeps its volume; it does
+not fall apart, because of the attraction of the molecules for each other. If the
+drop is on a slope, where it can move from one place to another, the water will
+flow, but it does not just disappear—things do not just fly apart—because of
+the molecular attraction. Now the jiggling motion is what we represent as heat:
+when we increase the temperature, we increase the motion. If we heat the water,
+the jiggling increases and the volume between the atoms increases, and if the
+heating continues there comes a time when the pull between the molecules is not
+enough to hold them together and they do fly apart and become separated from
+one another. Of course, this is how we manufacture steam out of water—by
+increasing the temperature; the particles fly apart because of the increased motion.
+In Fig. 1-2 we have a picture of steam. This picture of steam fails in one
+respect: at ordinary atmospheric pressure there might be only a few molecules in
+a whole room, and there certainly would not be as many as three in this figure.
+Most squares this size would contain none—but we accidentally have two and a
+half or three in the picture (just so it would not be completely blank). Now in
+the case of steam we see the characteristic molecules more clearly than in the case
+of water. For simplicity, the molecules are drawn so that there is a 120° angle
+between them. In actual fact the angle is 105°3', and the distance between the
+center of a hydrogen and the center of the oxygen is 0.957 Å, so we know this
+molecule very well.
+Let us see what some of the properties of steam vapor or any other gas are.
+The molecules, being separated from one another, will bounce against the walls.
+Imagine a room with a number of tennis balls (a hundred or so) bouncing around
+in perpetual motion. When they bombard the wall, this pushes the wall away.
+(Of course we would have to push the wall back.) This means that the gas exerts
+a jittery force which our coarse senses (not being ourselves magnified a billion
+times) feels only as an average push. In order to confine a gas we must apply a
+pressure. Figure 1-3 shows a standard vessel for holding gases (used in all
+textbooks), a cylinder with a piston in it. Now, it makes no difference what the
+shapes of water molecules are, so for simplicity we shall draw them as tennis
+balls or little dots. These things are in perpetual motion in all directions. So many
+of them are hitting the top piston all the time that to keep it from being patiently
+knocked out of the tank by this continuous banging, we shall have to hold the
+piston down by a certain force, which we call the pressure (really, the pressure
+times the area is the force). Clearly, the force is proportional to the area, for if
+we increase the area but keep the number of molecules per cubic centimeter the
+same, we increase the number of collisions with the piston in the same proportion
+as the area was increased an energy barrier or "hill." Consider this analogy: If we wanted to take an object
+from one place to another, at the same level but on the other side of a hill, we could
+push it over the top, but to do so requires the addition of some energy. Thus
+most chemical reactions do not occur, because there is what is called an activa-
+tion energy in the way. In order to add an extra atom to our chemical requires
+that we get it close enough that some rearrangement can occur; then it will stick.
+But if we cannot give it enough energy to get it close enough, it will not go to com-
+pletion, it will just go part way up the "hill" and back down again. However,
+if we could literally take the molecules in our hands and push and pull the atoms
+around in such a way as to open a hole to let the new atom in, and then let it snap
+back, we would have found another way, around the hill, which would not require
+extra energy, and the reaction would go easily. Now there actually are, in the cells,
+very large molecules, much larger than the ones whose changes we have been de-
+scribing, which in some complicated way hold the smaller molecules just right, so
+that the reaction can occur easily. These very large and complicated things are
+called enzymes. (They were first called ferments, because they were originally
+discovered in the fermentation of sugar. In fact, some of the first reactions in
+the cycle were discovered there.) In the presence of an enzyme the reaction will go.
+An enzyme is made of another substance called protein. Enzymes are very
+big and complicated, and each one is different, each being built to control a certain
+special reaction. The names of the enzymes are written in Fig. 3-1 at each reaction.
+(Sometimes the same enzyme may control two reactions.) We emphasize that the
+enzymes themselves are not involved in the reaction directly. They do not change;
+they merely let an atom go from one place to another. Having done so, the enzyme
+is ready to do it to the next molecule, like a machine in a factory. Of course, there
+must be a supply of certain atoms and a way of disposing of other atoms. Take
+hydrogen, for example: there are enzymes which have special units on them which
+carry the hydrogen for all chemical reactions. For example, there are three or four
+hydrogen-reducing enzymes which are used all over our cycle in different places.
+It is interesting that the machinery which liberates some hydrogen at one place
+will take that hydrogen and use it somewhere else.
+The most important feature of the cycle of Fig. 3-1 is the transformation
+from GDP to GTP (guanadine-di-phosphate to guanadine-tri-phosphate) because
+the one substance has much more energy in it than the other. Just as there is a
+"box" in certain enzymes for carrying hydrogen atoms around, there are special
+energy-carrying "boxes" which involve the triphosphate group. So, GTP has more
+energy than GDP and if the cycle is going one way, we are producing molecules
+which have extra energy and which can go drive some other cycle which requires
+energy, for example the contraction of muscle. The muscle will not contract
+unless there is GTP. We can take muscle fiber, put it in water, and add GTP,
+and the fibers contract, changing GTP to GDP if the right enzymes are present.
+So the real system is in the GDP-GTP transformation; in the dark the GTP
+which has been stored up during the day is used to run the whole cycle around the
+other way. An enzyme you see, does not care in which direction the reaction goes,
+for if it did it would violate one of the laws of physics.
+Physics is of great importance in biology and other sciences for still another
+reason, that has to do with experimental techniques. In fact, if it were not for the
+great development of experimental physics, these biochemistry charts would not
+be known today. The reason is that the most useful tool of all for analyzing this
+fantastically complex system is to label the atoms which are used in the reactions.
+Thus, if we could introduce into the cycle some carbon dioxide which has a
+"green mark" on it, and then measure after three seconds where the green mark
+is, and again measure after ten seconds, etc., we could trace out the course of the
+reactions. What are the "green marks"? They are different isotopes. We recall
+that the chemical properties of atoms are determined by the number of electrons,
+not by the mass of the nucleus. But there can be, for example in carbon, six
+neutrons or seven neutrons, together with the six protons which all carbon nuclei
+have. Chemically, the two atoms C 12 and C 13 are the same, but they differ in
+weight and they have different nuclear properties, and so they are distinguishable.
+3-4
+By using these isotopes of different weights, or even radioactive isotopes like C 14 ,
+which provide a more sensitive means for tracing very small quantities, it is pos-
+sible to trace the reactions.
+Now, we return to the description of enzymes and proteins. All proteins are
+not enzymes, but all enzymes are proteins. There are many proteins, such as the
+proteins in muscle, the structural proteins which are, for example, in cartilage and
+hair, skin, etc., that are not themselves enzymes. However, proteins are a very
+characteristic substance of life: first of all they make up all the enzymes, and
+second, they make up much of the rest of living material. Proteins have a very
+interesting and simple structure. They are a series, or chain, of different ammo
+acids. There are twenty different amino acids, and they all can combine with
+each other to form chains in which the backbone is CO-NH, etc. Proteins are
+nothing but chains of various ones of these twenty amino acids. Each of the amino
+acids probably serves some special purpose. Some, for example, have a sulphur
+atom at a certain place; when two sulphur atoms are in the same protein, they
+form a bond, that is, they tie the chain together at two points and form a loop.
+Another has extra oxygen atoms which make it an acidic substance, another has
+a basic characteristic. Some of them have big groups hanging out to one side, so -
+that they take up a lot of space. One of the amino acids, called prolene, is not
+really an amino acid, but imino acid. There is a slight difference, with the result
+that when prolene is in the chain, there is a kink in the chain. If we wished to
+manufacture a particular protein, we would give these instructions: put one of
+those sulphur hooks here; next, add something to take up space; then attach some-
+thing to put a kink in the chain. In this way, we will get a complicated-looking
+chain, hooked together and having some complex structure; this is presumably
+just the manner in which all the various enzymes are made. One of the great tri-
+umphs in recent times (since 1960), was at last to discover the exact spatial atomic
+arrangement of certain proteins, which involve some fifty-six or sixty amino acids
+in a row. Over a thousand atoms (more nearly two thousand, if we count the
+hydrogen atoms) have been located in a complex pattern in two proteins. The
+first was hemoglobin. One of the sad aspects of this discovery is that we cannot see
+anything from the pattern; we do not understand why it works the way it does.
+Of course, that is the next problem to be attacked.
+Another problem is how do the enzymes know what to be? A red-eyed fly
+makes a red-eyed fly baby, and so the information for the whole pattern of enzymes
+to make red pigment must be passed from one fly to the next. This is done by a
+substance in the nucleus of the cell, not a protein, called DNA (short for des-
+oxyribose nucleic acid). This is the key substance which is passed from one cell
+to another (for instance, sperm cells consist mostly of DNA) and carries the
+information as to how to make the enzymes. DNA is the "blueprint." What does
+the blueprint look like and how does it work? First, the blueprint must be able
+to reproduce itself. Secondly, it must be able to instruct the protein. Concerning
+the reproduction, we might think that this proceeds like cell reproduction. Cells
+simply grow bigger and then divide in half. Must it be thus with DNA molecules,
+then, that they too grow bigger and divide in half? Every atom certainly does not
+grow bigger and divide in half! No, it is impossible to reproduce a molecule
+except by some more clever way.
+The structure of the substance DNA was studied for a long time, first chemi-
+cally to find the composition, and then with x-rays to find the pattern in space.
+The result was the following remarkable discovery: The DNA molecule is a pair
+of chains, twisted upon each other. The backbone of each of these chains, which
+are analogous to the chains of proteins but chemically quite different, is a series
+of sugar and phosphate groups, as shown in Fig. 3-2. Now we see how the chain
+can contain instructions, for if we could split this chain down the middle, we would
+have a series BAADC . . . and every living thing could have a different series.
+Thus perhaps, in some way, the specific instructions for the manufacture of pro-
+teins are contained in the specific series of the DNA.
+Attached to each sugar along the line, and linking the two chains together, are
+certain pairs of cross-links. However, they are not all of the same kind; there are
+3-5
+four kinds, called adenine, thymine, cytosine, and guanine, but let us call them
+A, B, C, and D. The interesting thing is that only certain pairs can sit opposite
+each other, for example A with B and C with D. These pairs are put on the two
+chains in such a way that they "fit together," and have a strong energy of interac-
+tion. However, C will not fit with A, and B will not fit with C; they will only fit
+in pairs, A against B and C against D. Therefore if one is C, the other must be
+D, etc. Whatever the letters may be in one chain, each one must have its specific
+complementary letter on the other chain.
+What then about reproduction? Suppose we split this chain in two. How
+can we make another one just like it? If, in the substances of the cells, there is a
+manufacturing department which brings up phosphate, sugar, and A, B, C, D
+units not connected in a chain, the only ones which will attach to our split chain
+will be the correct ones, the complements of BAADC . . ., namely, ABBCD ...
+Thus what happens is that the chain splits down the middle during cell division,
+one half ultimately to go with one cell, the other half to end up in the other cell;
+when separated, a new complementary chain is made by each half-chain.
+Next comes the question, precisely how does the order of the A, B, C, D units
+determine the arrangement of the amino acids in the protein? This is the central
+unsolved problem in biology today. The first clues, or pieces of information,
+however, are these: There are in the cell tiny particles called microsomes, and
+it is now known that that is the place where proteins are made. But the micro-
+somes are not in the nucleus, where the DNA and its instructions are. Something
+seems to be the matter. However, it is also known that little molecule pieces come
+off the DNA—not as long as the big DNA molecule that carries all the informa-
+tion itself, but like a small section of it. This is called RNA, but that is not essential.
+It is a kind of copy of the DNA, a short copy. The RNA, which somehow carries
+a message as to what kind of protein to make goes over to the microsome; that
+is known. When it gets there, protein is synthesized at the microsome. That is
+also known. However, the details of how the amino acids come in and are arranged
+in accordance with a code that is on the RNA are, as yet, still unknown. We do
+not know how to read it. If we knew, for example, the "lineup" A, B, C, C, A,
+we could not tell you what protein is to be made.
+Certainly no subject or field is making more progress on so many fronts at
+the present moment, than biology, and if we were to name the most powerful
+assumption of all, which leads one on and on in an attempt to understand life,
+it is that all things are made of atoms, and that everything that living things do can
+be understood in terms of the jigglings and wigglings of atoms.
+3-4 Astronomy
+In this rapid-fire explanation of the whole world, we must now turn to
+astronomy. Astronomy is older than physics. In fact, it got physics started by
+showing the beautiful simplicity of the motion of the stars and planets, the under-
+standing of which was the beginning of physics. But the most remarkable discovery
+in all of astronomy is that the stars are made of atoms of the same kind as those on
+the earth* How was this done? Atoms liberate light which has definite fre-
+* How I'm rushing through this! How much each sentence in this brief story contains.
+"The stars are made of the same atoms as the earth." I usually pick one small topic like
+this to give a lecture on. Poets say science takes away from the beauty of the stars—mere
+globs of gas atoms. Nothing is "mere." I too can see the stars on a desert night, and
+feel them. But do I see less or more ? The vastness of the heavens stretches my imagina-
+tion—stuck on this carousel my little eye can catch one-million-year-old light. A vast
+pattern—of which I am a part—perhaps my stuff was belched from some forgotten
+star, as one is belching there. Or see them with the greater eye of Palomar, rushing all
+apart from some common starting point when they were perhaps all together. What
+is the pattern, or the meaning, or the why ? It does not do harm to the mystery to know
+a little about it. For far more marvelous is the truth than any artists of the past imagined!
+Why do the poets of the present not speak of it ? What men are poets who can speak of
+Jupiter if he were like a man, but if he is an immense spinning sphere of methane and
+ammonia must be silent?
+3-6
+quencies, something like the timbre of a musical instrument, which has definite
+pitches or frequencies of sound. When we are listening to several different tones
+we can tell them apart, but when we look with our eyes at a mixture of colors we
+cannot tell the parts from which it was made, because the eye is nowhere near as
+discerning as the ear in this connection. However, with a spectroscope we can
+analyze the frequencies of the light waves and in this way we can see the very tunes
+of the atoms that are in the different stars. As a matter of fact, two of the chemical
+elements were discovered on a star before they were discovered on the earth.
+Helium was discovered on the sun, whence its name, and technetium was dis-
+covered in certain cool stars. This, of course, permits us to make headway in
+understanding the stars, because they are made of the same kinds of atoms which
+are on the earth. Now we know a great deal about the atoms, especially con-
+cerning their behavior under conditions of high temperature but not very great
+density, so that we can analyze by statistical mechanics the behavior of the stellar
+substance. Even though we cannot reproduce the conditions on the earth, using
+the basic physical laws we often can tell precisely, or very closely, what will happen.
+So it is that physics aids astronomy. Strange as it may seem, we understand the
+distribution of matter in the interior of the sun far better than we understand the
+interior of the earth. What goes on inside a star is better understood than one might
+guess from the difficulty of having to look at a little dot of light through a telescope,
+because we can calculate what the atoms in the stars should do in most circum-
+stances.
+One of the most impressive discoveries was the origin of the energy of the
+stars, that makes them continue to burn. One of the men who discovered this was
+out with his girl friend the night after he realized that nuclear reactions must be
+going on in the stars in order to make them shine. She said "Look at how pretty
+the stars shine!" He said "Yes, and right now I am the only man in the world
+who knows why they shine." She merely laughed at him. She was not impressed
+with being out with the only man who, at that moment, knew why stars shine.
+Well, it is sad to be alone, but that is the way it is in this world.
+It is the nuclear "burning" of hydrogen which supplies the energy of the sun;
+the hydrogen is converted into helium. Furthermore, ultimately, the manufacture
+of various chemical elements proceeds in the centers of the stars, from hydrogen.
+The stuff of which we are made, was "cooked" once, in a star, and spit out. How
+do we know? Because there is a clue. The proportion of the different isotopes—
+how much C12, how much C13, etc., is something which is never changed by
+chemical reactions, because the chemical reactions are so much the same for the
+two. The proportions are purely the result of nuclear reactions. By looking at the
+proportions of the isotopes in the cold, dead ember which we are, we can discover
+what the furnace was like in which the stuff of which we are made was formed.
+That furnace was like the stars, and so it is very likely that our elements were
+"made" in the stars and spit out in the explosions which we call novae and super-
+novae. Astronomy is so close to physics that we shall study many astronomical
+things as we go along.
+3-5 Geology
+We turn now to what are called earth sciences, or geology. First, meteorology
+and the weather. Of course the instruments of meteorology are physical instru-
+ments, and the development of experimental physics made these instruments
+possible, as was explained before. However, the theory of meteorology has never
+been satisfactorily worked out by the physicist. "Well," you say, "there is nothing
+but air, and we know the equations of the motions of air." Yes we do. "So if
+we know the condition of air today, why can't we figure out the condition of the
+air tomorrow?" First, we do not really know what the condition is today, because
+the air is swirling and twisting everywhere. It turns out to be very sensitive, and
+even unstable. If you have ever seen water run smoothly over a dam, and then
+turn into a large number of blobs and drops as it falls, you will understand what I
+mean by unstable. You know the condition of the water before it goes over the
+3-7
+spillway; it is perfectly smooth; but the moment it begins to fall, where do the
+drops begin? What determines how big the lumps are going to be and where they
+will be? That is not known, because the water is unstable. Even a smooth moving
+mass of air, in going over a mountain turns into complex whirlpools and eddies.
+In many fields we find this situation of turbulent flow that we cannot analyze today.
+Quickly we leave the subject of weather, and discuss geology!
+The question basic to geology is, what makes the earth the way it is? The
+most obvious processes are in front of your very eyes, the erosion processes of
+the rivers, the winds, etc. It is easy enough to understand these, but for every bit
+of erosion there is an equal amount of something else going on. Mountains are
+no lower today, on the average, than they were in the past. There must be moun-
+tsim-forming processes. You will find, if you study geology, that there are
+mountain-forming processes and vulcanism, which nobody understands but which
+is half of geology. The phenomenon of volcanoes is really not understood. What
+makes an earthquake is, ultimately, not understood. It is understood that if
+something is pushing something else, it snaps and will slide—that is all right.
+But what pushes, and why? The theory is that there are currents inside the earth—
+circulating currents, due to the difference in temperature inside and outside—
+which, in their motion, push the surface slightly. Thus if there are two opposite
+circulations next to each other, the matter will collect in the region where they
+meet and make belts of mountains which are in unhappy stressed conditions, and
+so produce volcanoes and earthquakes.
+What about the inside of the earth? A great deal is known about the speed of
+earthquake waves through the earth and the density of distribution of the earth.
+However, physicists have been unable to get a good theory as to how dense a
+substance should be at the pressures that would be expected at the center of the
+earth. In other words, we cannot figure out the properties of matter very well in
+these circumstances. We do much less well with the earth than we do with the
+conditions of matter in the stars. The mathematics involved seems a little too
+difficult, so far, but perhaps it will not be too long before someone realizes that
+it is an important problem, and really work it out. The other aspect, of course, is
+that even if we did know the density, we cannot figure out the circulating currents.
+Nor can we really work out the properties of rocks at high pressure. We cannot
+tell how fast the rocks should "give"; that must all be worked out by experiment.
+3-6 Psychology
+Next, we consider the science of psychology. Incidentally, psychoanalysis is
+not a science: it is at best a medical process, and perhaps even more like witch-
+doctoring. It has a theory as to what causes disease—lots of different "spirits,"
+etc. The witch doctor has a theory that a disease like malaria is caused by a spirit
+which comes into the air; it is not cured by shaking a snake over it, but quinine
+does help malaria. So, if you are sick, I would advise that you go to the witch
+doctor because he is the man in the tribe who knows the most about the disease;
+on the other hand, his knowledge is not science. Psychoanalysis has not been
+checked carefully by experiment, and there is no way to find a list of the number
+of cases in which it works, the number of cases in which it does not work, etc.
+The other branches of psychology, which involve things like the physiology
+of sensation—what happens in the eye, and what happens in the brain—are, if
+you wish, less interesting. But some small but real progress has been made in
+studying them. One of the most interesting technical problems may or may not
+be called psychology. The central problem of the mind, if you will, or the nervous
+system, is this: when an animal learns something, it can do something different
+than it could before, and its brain cell must have changed too, if it is made out of
+atoms. In what way is it different ? We do not know where to look, or what to
+look for, when something is memorized. We do not know what it means, or what
+change there is in the nervous system, when a fact is learned. This is a very impor-
+tant problem which has not been solved at all. Assuming, however, that there is
+some kind of memory thing, the brain is such an enormous mass of interconnect-
+3-8
+ing wires and nerves that it probably cannot be analyzed in a straightforward
+manner. There is an analog of this to computing machines and computing ele-
+ments, in that they also have a lot of lines, and they have some kind of element,
+analogous, perhaps, to the synapse, or connection of one nerve to another. This
+is a very interesting subject which we have not the time to discuss further—the
+relationship between thinking and computing machines. It must be appreciated,
+of course, that this subject will tell us very little about the real complexities of
+ordinary human behavior. All human beings are so different. It will be a long
+time before we get there. We must start much further back. If we could even figure
+out how a dog works, we would have gone pretty far. Dogs are easier to under-
+stand, but nobody yet knows how dogs work.
+3-7 How did it get that way?
+In order for physics to be useful to other sciences in a theoretical way, other
+than in the invention of instruments, the science in question must supply to the
+physicist a description of the object in a physicist's language. They can say "why
+does a frog jump?," and the physicist cannot answer. If they tell him what a frog
+is, that there are so many molecules, there is a nerve here, etc., that is different.
+If they will tell us, more or less, what the earth or the stars are like, then we can
+figure it out. In order for physical theory to be of any use, we must know where
+the atoms are located. In order to understand the chemistry, we must know
+exactly what atoms are present, for otherwise we cannot analyze it. That is but
+one limitation, of course.
+There is another kind of problem in the sister sciences which does not exist
+in physics; we might call it, for lack of a better term, the historical question.
+How did it get that way? If we understand all about biology, we will want to
+know how all the things which are on the earth got there. There is the theory of
+evolution, an important part of biology. In geology, we not only want to know
+how the mountains are forming, but how the entire earth was formed in the be-
+ginning, the origin of the solar system, etc. That, of course, leads us to want to
+know what kind of matter there was in the world. How did the stars evolve?
+What were the initial conditions? That is the problem of astronomical history.
+A great deal has been found out about the formation of stars, the formation of
+elements from which we were made, and even a little about the origin of the
+universe.
+There is no historical question being studied in physics at the present time.
+We do not have a question, "Here are the laws of physics, how did they get that
+way?" We do not imagine, at the moment, that the laws of physics are somehow
+changing with time, that they were different in the past than they are at present.
+Of course they may be, and the moment we find they are, the historical question
+of physics will be wrapped up with the rest of the history of the universe, and then
+the physicist will be talking about the same problems as astronomers, geologists,
+and biologists.
+Finally, there is a physical problem that is common to many fields, that is
+very old, and that has not been solved. It is not the problem of finding new funda-
+mental particles, but something left over from a long time ago—over a hundred
+years. Nobody in physics has really been able to analyze it mathematically
+satisfactorily in spite of its importance to the sister sciences. It is the analysis of
+circulating or turbulent fluids. If we watch the evolution of a star, there comes a
+point where we can deduce that it is going to start convection, and thereafter we
+can no longer deduce what should happen. A few million years later the star
+explodes, but we cannot figure out the reason. We cannot analyze the weather.
+We do not know the patterns of motions that there should be inside the earth.
+The simplest form of the problem is to take a pipe that is very long and push water
+through it at high speed. We ask: to push a given amount of water through that
+pipe, how much pressure is needed? No one can analyze it from first principles
+and the properties of water. If the water flows very slowly, or if we use a thick
+goo like honey, then we can do it nicely. You will find that in your textbook.
+3-9
+What we really cannot do is deal with actual, wet water running through a pipe.
+That is the central problem which we ought to solve some day, and we have not.
+A poet once said, "The whole universe is in a glass of wine." We will probably
+never know in what sense he meant that, for poets do not write to be understood.
+But it is true that if we look at a glass of wine closely enough we see the entire
+universe. There are the things of physics: the twisting liquid which evaporates
+depending on the wind and weather, the reflections in the glass, and our imagi-
+nation adds the atoms. The glass is a distillation of the earth's rocks, and in its
+composition we see the secrets of the universe's age, and the evolution of stars.
+What strange array of chemicals are in the wine? How did they come to be?
+There are the ferments, the enzymes, the substrates, and the products. There in
+wine is found the great generalization: all life is fermentation. Nobody can
+discover the chemistry of wine without discovering, as did Louis Pasteur, the cause
+of much disease. How vivid is the claret, pressing its existence into the conscious-
+ness that watches it! If our small minds, for some convenience, divide this glass
+of wine, this universe, into parts—physics, biology, geology, astronomy, psy-
+chology, and so on—remember that nature does not know it! So let us put it all
+back together, not forgetting ultimately what it is for. Let it give us one more final
+pleasure: drink it and forget it all!
+3-10
+4
+Conservation of Energy
+4-1 What is energy?
+In this chapter, we begin our more detailed study of the different aspects of
+physics, having finished our description of things in general. To illustrate the ideas
+and the kind of reasoning that might be used in theoretical physics, we shall now
+examine one of the most basic laws of physics, the conservation of energy.
+There is a fact, or if you wish, a law, governing all natural phenomena that
+are known to date. There is no known exception to this law—it is exact so far as
+we know. The law is called the conservation of energy. It states that there is a
+certain quantity, which we call energy, that does not change in the manifold
+changes which nature undergoes. That is a most abstract idea, because it is a
+mathematical principle; it says that there is a numerical quantity which does not
+change when something happens. It is not a description of a mechanism, or any-
+thing concrete; it is just a strange fact that we can calculate some number and when
+we finish watching nature go through her tricks and calculate the number again,
+it is the same. (Something like the bishop on a red square, and after a number of
+moves—details unknown—it is still on some red square. It is a law of this nature.)
+Since it is an abstract idea, we shall illustrate the meaning of it by an analogy.
+Imagine a child, perhaps "Dennis the Menace," who has blocks which are
+absolutely indestructible, and cannot be divided into pieces. Each is the same as
+the other. Let us suppose that he has 28 blocks. His mother puts him with his
+28 blocks into a room at the beginning of the day. At the end of the day, being
+curious, she counts the blocks very carefully, and discovers a phenomenal law—
+no matter what he does with the blocks, there are always 28 remaining! This
+continues for a number of days, until one day there are only 27 blocks, but a little
+investigating shows that there is one under the rug—she must look everywhere
+to be sure that the number of blocks has not changed. One day, however, the
+number appears to change—there are only 26 blocks. Careful investigation in-
+dicates that the window was open, and upon looking outside, the other two blocks
+are found. Another day, careful count indicates that there are 30 blocks! This
+causes considerable consternation, until it is realized that Bruce came to visit,
+bringing his blocks with him, and he left a few at Dennis' house. After she has
+disposed of the extra blocks, she closes the window, does not let Bruce in, and then
+everything is going along all right, until one time she counts and finds only 25
+blocks. However, there is a box in the room, a toy box, and the mother goes to
+open the toy box, but the boy says "No, do not open my toy box," and screams.
+Mother is not allowed to open the toy box. Being extremely curious, and somewhat
+ingenious, she invents a scheme! She knows that a block weighs three ounces,
+so she weighs the box at a time when she sees 28 blocks, and it weighs 16 ounces.
+The next time she wishes to check, she weighs the box again, subtracts sixteen
+ounces and divides by three. She discovers the following:
+
+
+on. In an arbitrary time interval t there are t/T "half-lives," and the fraction left
+after this time t is ^')tlT.
+If we knew that a piece of material, say a piece of wood, had contained an
+amount A of radioactive material when it was formed, and we found out by a direct
+measurement that it now contains the amount B, we could compute the age of
+the object, t, by solving the equation
+There are, fortunately, cases in which we can know the amount of radioactivity
+that was in an object when it was formed. We know, for example, that the carbon
+dioxide in the air contains a certain small fraction of the radioactive carbon
+isotope C 14 (replenished continuously by the action of cosmic rays). If we measure
+the total carbon content of an object, we know that a certain fraction of that amount
+was originally the radioactive C 14 ; we know, therefore, the starting amount A
+to use in the formula above. Carbon-14 has a half-life of 5000 years. By careful
+measurements we can measure the amount left after 20 half-lives or so and can
+therefore "date" organic objects which grew as long as 100,000 years ago.
+We would like to know, and we think we do know, the life of still older things.
+Much of our knowledge is based on the measurements of other radioactive iso-
+topes which have different half-lives. If we make measurements with an isotope
+with a longer half-life, then we are able to measure longer times. Uranium, for
+example, has an isotope whose half-life is about 109 years, so that if some material
+was formed with uranium in it 109 years ago, only half the uranium would remain
+today. When the uranium disintegrates, it changes into lead. Consider a piece
+of rock which was formed a long time ago in some chemical process. Lead, being
+of a chemical nature different from uranium, would appear in one part of the rock
+and uranium would appear in another part of the rock. The uranium and lead
+5-4
+would be separate. If we look at that piece of rock today, where there should only
+be uranium we will how find a certain fraction of uranium and a certain fraction
+of lead. By comparing these fractions, we can tell what percent of the uranium
+disappeared and changed into lead. By this method, the age of certain rocks has
+been determined to be several billion years. An extension of this method, not
+using particular rocks but looking at the uranium and lead in the oceans and using
+averages over the earth, has been used to determine (within the past few years)
+that the age of the earth itself is approximately 5.5 billion years.
+It is encouraging that the age of the earth is found to be the same as the age
+of the meteorites which land on the earth, as determined by the uranium method.
+It appears that the earth was formed out of rocks floating in space, and that the
+meteorites are, quite likely, some of that material left over. At some time more than
+five billion years ago, the universe started. It is now believed that at least our part
+of the universe had its beginning about ten or twelve billion years ago. We do
+not know what happened before then. In fact, we may well ask again: Does the
+question make any sense? Does an earlier time have any meaning?
+5-5 Units and standards of time
+We have implied that it is convenient if we start with some standard unit of
+time, say a day or a second, and refer all other times to some multiple or fraction
+of this unit. What shall we take as our basic standard of time? Shall we take the
+human pulse? If we compare pulses, we find that they seem to vary a lot. On
+comparing two clocks, one finds they do not vary so much. You might then say,
+well, let us take a clock. But whose clock? There is a story of a Swiss boy who
+wanted all of the clocks in his town to ring noon at the same time. So he went
+around trying to convince everyone of the value of this. Everyone thought it was
+a marvelous idea so long as all of the other clocks rang noon when his did! It is
+rather difficult to decide whose clock we should take as a standard. Fortunately,
+we all share one clock—the earth. For a long time the rotational period of the
+earth has been taken as the basic standard of time. As measurements have been
+made more and more precise, however, it has been found that the rotation of the
+earth is not exactly periodic, when measured in terms of the best clocks. These
+"best" clocks are those which we have reason to believe are accurate because they
+agree with each other. We now believe that, for various reasons, some days are
+longer than others, some days are shorter, and on the average the period of the
+earth becomes a little longer as the centuries pass.
+Until very recently we had found nothing much better than the earth's
+period, so all clocks have been related to the length of the day, and the second
+has been defined as 1/86400 of an average day. Recently we have been gaining
+experience with some natural oscillators which we now believe would provide a
+more constant time reference than the earth, and which are also based on a natural
+phenomenon available to everyone. These are the so-called "atomic clocks."
+Their basic internal period is that of an atomic vibration which is very insensitive
+to the temperature or any other external effects. These clocks keep time to an
+accuracy of one part in 109 or better. Within the past two years an improved
+atomic clock which operates on the vibration of the hydrogen atom has been de-
+signed and built by Professor Norman Ramsey at Harvard University. He believes
+that this clock might be 100 times more accurate still. Measurements now in
+progress will show whether this is true or not.
+We may expect that since it has been possible to build clocks much more
+accurate than astronomical time, there will soon be an agreement among scientists
+to define the unit of time in terms of one of the atomic clock standards.
+5-6 Large distances
+Let us now turn to the question of distance. How far, or how big, are things?
+Everybody knows that the way you measure distance is to start with a stick and
+count. Or start with a thumb and count. You begin with a unit and count. How
+5-5
+Fig. 5-4. The height of a Sputnik is
+determined by triangulation
+Fig. 5-5. The distance of nearby
+stars can be measured by triangulation,
+using the diameter of the earth's orbit as
+a baseline.
+does one measure smaller things? How does one subdivide distance? In the same
+way that we subdivided time: we take a smaller unit and count the number of
+such units it takes to make up the longer unit. So we can measure smaller and
+smaller lengths.
+But we do not always mean by distance what one gets by counting off with a
+meter stick. It would be difficult to measure the horizontal distance between two
+mountain tops using only a meter stick. We have found by experience that dis-
+tance can be measured in another fashion: by triangulation. Although this means
+that we are really using a different definition of distance, when they can both be
+used they agree with each other. Space is more or less what Euclid thought it
+was, so the two types of definitions of distance agree. Since they do agree on the
+earth it gives us some confidence in using triangulation for still larger distances.
+For example, we were able to use triangulation to measure the height of the first
+Sputnik. We found that it was roughly 5 X 105 meters high. By more careful
+measurements the distance to the moon can be measured in the same way. Two
+telescopes at different places on the earth can give us the two angles we need.
+It has been found in this way that the moon is 4 X 108 meters away.
+We cannot do the same with the sun, or at least no one has been able to yet.
+The accuracy with which one can focus on a given point on the sun and with which
+one can measure angles is not good enough to permit us to measure the distance
+to the sun. Then how can we measure the distance to the sun? We must invent
+an extension of the idea of triangulation. We measure the relative distances of
+all the planets by astronomical observations of where the planets appear to be,
+and we get a picture of the solar system with the proper relative distances of every-
+thing, but with no absolute distance. One absolute measurement is then required,
+which has been obtained in a number of ways. One of the ways, which was believed
+until recently to be the most accurate, was to measure the distance from the earth
+to Eros, one of the small planetoids which passes near the earth every now and then.
+By triangulation on this little object, one could get the one required scale measure-
+ment. Knowing the relative distances of the rest, we can then tell the distance, for
+example, from the earth to the sun, or from the earth to Pluto.
+Within the past year there has been a big improvement in our knowledge of
+the scale of the solar system. At the Jet Propulsion Laboratory the distance from
+the earth to Venus was measured quite accurately by a direct radar observation.
+This, of course, is a still different type of inferred distance. We say we know
+the speed at which light travels (and therefore, at which radar waves travel),
+and we assume that it is the same speed everywhere between the earth and Venus.
+We send the radio wave out, and count the time until the reflected wave comes
+back. From the time we infer a distance, assuming we know the speed. We have
+really another definition of a measurement of distance.
+How do we measure the distance to a star, which is much farther away?
+Fortunately, we can go back to our triangulation method, because the earth moving
+around the sun gives us a large baseline for measurements of objects outside the
+solar system. If we focus a telescope on a star in summer and in winter, we might
+hope to determine these two angles accurately enough to be able to measure the
+distance to a star.
+What if the stars are too far away for us to use triangulation? Astronomers
+are always inventing new ways of measuring distance. They find, for example,
+that they can estimate the size and brightness of a star by its color. The color
+and brightness of many nearby stars—whose distances are known by triangula-
+tion—have been measured, and it is found that there is a smooth relationship
+between the color and the intrinsic brightness of stars (in most cases). If one now
+measures the color of a distant star, one may use the color-brightness relationship
+to determine the intrinsic brightness of the star. By measuring how bright the star
+appears to us at the earth (or perhaps we should say how dim it appears), we can
+compute how far away it is. (For a given intrinsic brightness, the apparent bright-
+ness decreases with the square of the distance.) A nice confirmation of the correct-
+ness of this method of measuring stellar distances is given by the results obtained
+for groups of stars known as globular clusters. A photograph of such a group is
+5-6
+Fig. 5-6. A cluster of stars near the center of our galaxy. Their distance from the
+earth is 30,000 light-years, or about 3 X 1 0 2 0 meters.
+shown in Fig. 5-6. Just from looking at the photograph one is convinced that these
+stars are all together. The same result is obtained from distance measurements
+by the color-brightness method.
+A study of many globular clusters gives another important bit of informa-
+tion. It is found that there is a high concentration of such clusters in a certain
+part of the sky and that most of them are about the same distance from us. Cou-
+pling this information with other evidence, we conclude that this concentration of
+clusters marks the center of our galaxy. We then know the distance to the center
+of the galaxy—about 10 20 meters.
+Knowing the size of our own galaxy, we have a key to the measurement of
+still larger distances—the distances to other galaxies. Figure 5-7 is a photograph
+of a galaxy, which has much the same shape as our own. Probably it is the same
+size, too. (Other evidence supports the idea that galaxies are all about the same
+size.) If it is the same size as ours, we can tell its distance. We measure the angle
+it subtends in the sky; we know its diameter, and we compute its distance—
+triangulation again!
+Fig. 5-7. A spiral galaxy like our own. Presuming that its diameter is similar to
+that of our own galaxy, we may compute its distance from its apparent size. It is 30
+million light-years (3 X 1 0 2 3 meters) from the earth.
+5-7
+Fig. 5-8. The most distant object, 3C295 in BOOTES (indicated by the arrow),
+measured by the 200-inch telescope to date (1960).
+Photographs of exceedingly distant galaxies have recently been obtained with
+the giant Palomar telescope. One is shown in Fig. 5-8. It is now believed that
+some of these galaxies are about halfway to the limit of the universe—1026 meters
+away—the largest distance we can contemplate!
+5-7 Short distances
+Now let's think about smaller distances. Subdividing the meter is easy. With-
+out much difficulty we can mark off one thousand equal spaces which add up to
+one meter. With somewhat more difficulty, but in a similar way (using a good
+microscope), we can mark off a thousand equal subdivisions of the millimeter to
+make a scale of microns (millionths of a meter). It is difficult to continue to smaller
+scales, because we cannot "see" objects smaller than the wavelength of visible
+light (about 5 X 10~7 meter).
+We need not stop, however, at what we can see. With an electron microscope,
+we can continue the process by making photographs on a still smaller scale, say
+down to 10~8 meter (Fig. 5-9). By indirect measurements—by a kind oftriangula-
+tion on a microscopic scale— we can continue to measure to smaller and smaller
+scales. First, from an observation of the way light of short wavelength (x-radiation)
+is reflected from a pattern of marks of known separation, we determine the wave-
+Fig. 5-9. Electron micrograph of some virus molecules. The "large" sphere is for
+calibration and is known to have a diameter of 2 X 10~ 7 meter (2000 A).
+5-8
+DISTANCES
+LIGHT-YEARS METERS
+length of the light vibrations. Then, from the pattern of the scattering of the same
+light from a crystal, we can determine the relative location of the atoms in the
+crystal, obtaining results which agree with the atomic spacings also determined
+by chemical means. We find in this way that atoms have a diameter of about
+10-10 meter.
+There is a large "gap" in physical sizes between the typical atomic dimension
+of about lO"10 meter and the nuclear dimensions 10~15 meter, 10~5 times smaller.
+For nuclear sizes, a different way of measuring size becomes convenient. We meas-
+ure the apparent area, σ, called the effective cross section. If we wish the radius,
+we can obtain it from σ == rr 2, since nuclei are nearly spherical.
+Measurement of a nuclear cross section can be made by passing a beam of
+high-energy particles through a thin slab of material and observing the number
+of particles which do not get through. These high-energy particles will plow right
+through the thin cloud of electrons and will be stopped or deflected only if they
+hit the concentrated weight of a nucleus. Suppose we have a piece of material
+1 centimeter thick. There will be about 108 atomic layers. But the nuclei are so
+small that there is little chance that any nucleus will lie behind another. We might
+imagine that a highly magnified view of the situation—looking along the particle
+beam—would look like Fig. 5-10.
+The chance that a very small particle will hit a nucleus on the trip through
+is just the total area covered by the profiles of the nuclei divided by the total
+area in the picture. Suppose that we know that in an area A of our slab of material
+there are N atoms (each with one nucleus, of course). Then the total area "covered"
+by the nuclei is N σ / A . Now let the number of particles of our beam which arrive
+at the slab be n\ and the number which come out the other side be n^. The frac-
+tion which do not get through is (n1 — n^/n^, which should just equal the
+5-9
+Fig. 5-10. Imagined view through a
+block of carbon 1 cm thick if only the
+nuclei were observed.
+fraction of the area covered. We can obtain the radius of the nucleus from the
+equation*
+From such an experiment we find that the radii of the nuclei are from about 1 to 6
+times 10~15 meter. The length unit lO"15 meter is called fhe fermi, in honor of
+Enrico Fermi (1901-1958).
+What do we find if we go to smaller distances? Can we measure smaller
+distances ? Such questions are not yet answerable. It has been suggested that the
+still unsolved mystery of nuclear forces may be unravelled only by some modifica-
+tion of our idea of space, or measurement, at such small distances.
+It might be thought that it would be a good idea to use some natural length
+as our unit of length—say the radius of the earth or some fraction of it. The
+meter was originally intended to be such a unit and was defined to be (π/2) X 10~7
+times the earth's radius. It is neither convenient nor very accurate to determine
+the unit of length in this way. For a long time it has been agreed internationally
+that the meter would be defined as the distance between two scratches on a bar
+kept in a special laboratory in France. More recently, it has been realized that
+this definition is neither as precise as would be useful, nor as permanent or universal
+as one would like. It is currently being considered that a new definition be adopted,
+an agreed-upon (arbitrary) number of wavelengths of a chosen spectral line.
+Measurements of distance and of time give results which depend on the ob-
+server. Two observers moving with respect to each other will not measure the same
+distances and times when measuring what appear to be the same things. Distances
+and time intervals have different magnitudes, depending on the coordinate system
+(or "frame of reference") used for making the measurements. We shall study this
+subject in more detail in a later chapter.
+Perfectly precise measurements of distances or times are not permitted by the
+laws of nature. We have mentioned earlier that the errors in a measurement of
+the position of an object must be at least as large as
+where h is a small quantity called "Planck's constant" and ∆p is the error in
+our knowledge of the momentum (mass times velocity) of the object whose posi-
+tion we are measuring. It was also mentioned that the uncertainty in position
+measurements is related to the wave nature of particles.
+The relativity of space and time implies that time measurements have also a
+minimum error, given in fact by
+where AE is the error in our knowledge of the energy of the process whose time
+period we are measuring. If we wish to know more precisely when something
+happened we must know less about what happened, because our knowledge of
+the energy involved will be less. The time uncertainty is also related to the wave
+nature of matter.
+* This equation is right only if the area covered by the nuclei is a small fraction of the
+total, i.e., if (MI — ni)ln\ is much less than 1. Otherwise we must make a correction
+for the fact that some nuclei will be partly obscured by the nuclei in front of them.
+
